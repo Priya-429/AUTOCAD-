@@ -1,4 +1,4 @@
-For your AutoCAD project at Mott MacDonald, the README file in GitHub should provide clear and concise information about the project to anyone who views it. Here's a structure you can follow:
+ AutoCAD project at Mott MacDonald:
 
 ### 1. **Project Title**
    - **Infrastructure Development of Industrial Estates in Tripura (AutoCAD)**

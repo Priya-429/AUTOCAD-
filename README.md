@@ -1,3 +1,4 @@
+![Screenshot 2024-09-15 072955](https://github.com/user-attachments/assets/7cd3a265-67b6-451e-8945-33e0b1473f66)
 ![Screenshot 2024-09-15 071830](https://github.com/user-attachments/assets/b13eff36-fd2a-4ef9-bd6d-06c69cae9aff)
 
  AutoCAD project at Mott MacDonald:

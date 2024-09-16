@@ -16,24 +16,22 @@ This project focused on designing industrial estates in Tripura using AutoCAD. T
 
 ### 3. **Project Objective**  
 The main objective of the project was to develop infrastructure for these industrial estates through accurate AutoCAD designs. The work focused on layout planning, road networks, drainage systems, and making the best use of space.
+4. Project Features
+Designs of multiple industrial estates
+Road and drainage system planning
+Space allocation for industries
+Optimization of land use and infrastructure alignment
+5. Technologies Used
+AutoCAD (for design and drafting)
+6. Usage
+The AutoCAD drawings from this project can be used as a reference for future infrastructure projects or to understand the layout designs of the estates. To view the designs, open the .dwg files in AutoCAD.
+
+7. Project Status
+The project was successfully completed during my internship at Mott MacDonald, and the designs are available for reference in infrastructure development projects.
 
 
 
-    4. Project Features  
-- Designs of multiple industrial estates  
-- Road and drainage system planning  
-- Space allocation for industries  
-- Optimization of land use and infrastructure alignment  
-
-    5. Technologies Used  
-   - AutoCAD (for design and drafting)
 
 
-   6.  Usage 
-The AutoCAD drawings from this project can be used as a reference for future infrastructure projects or to understand the layout designs of the estates. To view the designs, open the `.dwg` files in AutoCAD.
-
-
-  7. Project Status 
-The project was successfully completed during my internship at Mott MacDonald, and the designs are available for reference in infrastructure development projects
-
+  
 

@@ -6,10 +6,10 @@
       1.  Project Title
    - Infrastructure Development of Industrial Estates in Tripura.
 
-       2. Project Description 
+       2.    Project Description 
      This project involves the design and development of industrial estates in Tripura using AutoCAD. The estates include Dharmanagar, Bodhjungnagar, R.K. Nagar, Sarasima, and Dewanpasa. It was undertaken during my internship at Mott MacDonald in March 2024. The aim of the project was to create detailed layout designs and optimize the infrastructure planning of these estates._
 
-     3.  Project Objective
+     3.     Project Objective
      - The objective of this project was to assist in the development of infrastructure for industrial estates by producing accurate AutoCAD designs. The focus was on layout planning, road networks, drainage systems, and space optimization.
 
     4.  Project Features

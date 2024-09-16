@@ -3,27 +3,29 @@
 
  AutoCAD project at Mott MacDonald:
 
-      1.  Project Title
-   - Infrastructure Development of Industrial Estates in Tripura.
+      Project Title
+Infrastructure Development of Industrial Estates in Tripura
 
-       2.    Project Description 
-     This project involves the design and development of industrial estates in Tripura using AutoCAD. The estates include Dharmanagar, Bodhjungnagar, R.K. Nagar, Sarasima, and Dewanpasa. It was undertaken during my internship at Mott MacDonald in March 2024. The aim of the project was to create detailed layout designs and optimize the infrastructure planning of these estates._
+Project Description
+This project focuses on the design and development of industrial estates in Tripura, using AutoCAD for detailed layout creation. The estates include Dharmanagar, Bodhjungnagar, R.K. Nagar, Sarasima, and Dewanpasa. It was completed during my internship at Mott MacDonald in March 2024. The primary goal was to create detailed layout designs and optimize the infrastructure planning of these estates.
 
-     3.     Project Objective
-     - The objective of this project was to assist in the development of infrastructure for industrial estates by producing accurate AutoCAD designs. The focus was on layout planning, road networks, drainage systems, and space optimization.
+Project Objective
+The objective of this project was to support the development of infrastructure for industrial estates by producing accurate AutoCAD designs. The focus areas were layout planning, road networks, drainage systems, and space optimization to maximize land use efficiency.
 
-    4.  Project Features
-     - Designs of multiple industrial estates
-     - Road and drainage system planning
-     - Space allocation for industries
-     - Optimization of land use and infrastructure alignment
-  
-      5. Technologies Used
-      AutoCAD (for design and drafting)
+Project Features
 
-      6. Usage
-     The AutoCAD drawings provided can be used for reference in infrastructure development projects, or to understand the layout design of the estates. Simply open the `.dwg` files in AutoCAD to view the designs.
+Comprehensive designs for multiple industrial estates
+Planning of road and drainage systems
+Efficient space allocation for industrial purposes
+Optimization of land use and infrastructure alignment
+Technologies Used
 
-      7. Project Status
-     This project was completed during my internship at Mott MacDonald and is fully functional as a reference for infrastructure design.
+AutoCAD (for design and drafting)
+Usage
+The AutoCAD drawings can be used as references for future infrastructure development projects or to gain insights into the layout designs of industrial estates. The .dwg files can be opened in AutoCAD to view and analyze the designs.
+
+Project Status
+This project was successfully completed during my internship at Mott MacDonald and serves as a functional reference for industrial estate infrastructure design.
+
+
 
